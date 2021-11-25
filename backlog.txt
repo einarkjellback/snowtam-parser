@@ -1,0 +1,5 @@
+To do:
+- Make hello world ANTLR.
+
+Done:
+- Setup gradle
